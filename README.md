@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Shortest Path
 |  |
 | ------- |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1143-longest-common-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
