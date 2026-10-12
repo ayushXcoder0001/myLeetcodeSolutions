@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Shortest Path
 |  |
 | ------- |
@@ -180,11 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Design
 |  |
 | ------- |
@@ -231,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0338-counting-bits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
