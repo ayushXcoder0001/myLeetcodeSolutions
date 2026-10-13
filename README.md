@@ -236,5 +236,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0338-counting-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
