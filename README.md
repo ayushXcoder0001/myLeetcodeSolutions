@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
+| [1268-search-suggestions-system](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1143-longest-common-subsequence) |
+| [1268-search-suggestions-system](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1268-search-suggestions-system) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0994-rotting-oranges) |
+| [1268-search-suggestions-system](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1268-search-suggestions-system) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1268-search-suggestions-system](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1268-search-suggestions-system](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1268-search-suggestions-system) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -248,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
