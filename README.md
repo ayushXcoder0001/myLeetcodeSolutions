@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0072-edit-distance) |
+| [0208-implement-trie-prefix-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0678-valid-parenthesis-string](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
@@ -190,11 +191,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
