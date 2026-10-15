@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0994-rotting-oranges) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1268-search-suggestions-system](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
