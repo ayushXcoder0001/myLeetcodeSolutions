@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1268-search-suggestions-system) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1268-search-suggestions-system) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1268-search-suggestions-system](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1268-search-suggestions-system) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
