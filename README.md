@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Shortest Path
 |  |
 | ------- |
