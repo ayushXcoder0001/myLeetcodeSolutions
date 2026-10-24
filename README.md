@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1268-search-suggestions-system) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3886-sum-of-sortable-integers) |
 ## Memoization
