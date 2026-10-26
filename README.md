@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3886-sum-of-sortable-integers) |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
