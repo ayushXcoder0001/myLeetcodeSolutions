@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
+| [2747-count-zero-request-servers](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
+| [2747-count-zero-request-servers](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3886-sum-of-sortable-integers) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2747-count-zero-request-servers](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -371,5 +374,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
