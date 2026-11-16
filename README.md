@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1268-search-suggestions-system) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Interactive
 |  |
