@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1268-search-suggestions-system) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1137-n-th-tribonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2409-count-days-spent-together) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayushXcoder0001/myLeetcodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
